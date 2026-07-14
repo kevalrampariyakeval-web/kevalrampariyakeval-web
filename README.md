@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Keval Rampariya!
 
-<!--
-**kevalrampariyakeval-web/kevalrampariyakeval-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building cool stuff and learning new technologies.
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevalrampariyakeval-web&show_icons=true&theme=radical" alt="kevalrampariyakeval-web's GitHub stats" />
+</div>
+
+### 🏆 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevalrampariyakeval-web&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+### 📈 Contribution Graph & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevalrampariyakeval-web&theme=react-dark" alt="Activity Graph" />
+</div>
+
+---
+⭐️ From [kevalrampariyakeval-web](https://github.com/kevalrampariyakeval-web)
