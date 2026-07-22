@@ -1,0 +1,87 @@
+<svg viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  
+    <g transform="translate(75.0,95) scale(0)">
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1"
+        begin="0.25s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.34 1.56 0.64 1"/>
+      <g transform="translate(-75.0,-95)">
+        <rect x="5.0" y="20" width="140" height="130" rx="14" fill="#0e1626" stroke="#2dd4bf" stroke-width="1.5" stroke-opacity="0.55"/>
+        <rect x="5.0" y="20" width="140" height="130" rx="14" fill="#2dd4bf" opacity="0">
+          <animate attributeName="opacity" values="0;0.16;0" dur="2.2s" begin="0.75s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="75.0" cy="62" r="24" fill="none" stroke="#2dd4bf" stroke-width="3"/>
+        <text x="75.0" y="70" font-size="18" font-weight="bold" fill="#2dd4bf" text-anchor="middle">5</text>
+        <text x="75.0" y="118" font-size="11" fill="#e7edf7" text-anchor="middle">Dashboards</text>
+        <text x="75.0" y="134" font-size="9" fill="#8a97ab" text-anchor="middle">RANK</text>
+      </g>
+    </g>
+    <g transform="translate(225.0,95) scale(0)">
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1"
+        begin="0.40s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.34 1.56 0.64 1"/>
+      <g transform="translate(-225.0,-95)">
+        <rect x="155.0" y="20" width="140" height="130" rx="14" fill="#0e1626" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.55"/>
+        <rect x="155.0" y="20" width="140" height="130" rx="14" fill="#22d3ee" opacity="0">
+          <animate attributeName="opacity" values="0;0.16;0" dur="2.2s" begin="0.90s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="225.0" cy="62" r="24" fill="none" stroke="#22d3ee" stroke-width="3"/>
+        <text x="225.0" y="70" font-size="18" font-weight="bold" fill="#22d3ee" text-anchor="middle">27+</text>
+        <text x="225.0" y="118" font-size="11" fill="#e7edf7" text-anchor="middle">Commits</text>
+        <text x="225.0" y="134" font-size="9" fill="#8a97ab" text-anchor="middle">RANK</text>
+      </g>
+    </g>
+    <g transform="translate(375.0,95) scale(0)">
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1"
+        begin="0.55s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.34 1.56 0.64 1"/>
+      <g transform="translate(-375.0,-95)">
+        <rect x="305.0" y="20" width="140" height="130" rx="14" fill="#0e1626" stroke="#8b5cf6" stroke-width="1.5" stroke-opacity="0.55"/>
+        <rect x="305.0" y="20" width="140" height="130" rx="14" fill="#8b5cf6" opacity="0">
+          <animate attributeName="opacity" values="0;0.16;0" dur="2.2s" begin="1.05s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="375.0" cy="62" r="24" fill="none" stroke="#8b5cf6" stroke-width="3"/>
+        <text x="375.0" y="70" font-size="18" font-weight="bold" fill="#8b5cf6" text-anchor="middle">1+</text>
+        <text x="375.0" y="118" font-size="11" fill="#e7edf7" text-anchor="middle">Repositories</text>
+        <text x="375.0" y="134" font-size="9" fill="#8a97ab" text-anchor="middle">RANK</text>
+      </g>
+    </g>
+    <g transform="translate(525.0,95) scale(0)">
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1"
+        begin="0.70s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.34 1.56 0.64 1"/>
+      <g transform="translate(-525.0,-95)">
+        <rect x="455.0" y="20" width="140" height="130" rx="14" fill="#0e1626" stroke="#fbbf24" stroke-width="1.5" stroke-opacity="0.55"/>
+        <rect x="455.0" y="20" width="140" height="130" rx="14" fill="#fbbf24" opacity="0">
+          <animate attributeName="opacity" values="0;0.16;0" dur="2.2s" begin="1.20s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="525.0" cy="62" r="24" fill="none" stroke="#fbbf24" stroke-width="3"/>
+        <text x="525.0" y="70" font-size="18" font-weight="bold" fill="#fbbf24" text-anchor="middle">B+</text>
+        <text x="525.0" y="118" font-size="11" fill="#e7edf7" text-anchor="middle">Consistency</text>
+        <text x="525.0" y="134" font-size="9" fill="#8a97ab" text-anchor="middle">RANK</text>
+      </g>
+    </g>
+    <g transform="translate(675.0,95) scale(0)">
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1"
+        begin="0.85s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.34 1.56 0.64 1"/>
+      <g transform="translate(-675.0,-95)">
+        <rect x="605.0" y="20" width="140" height="130" rx="14" fill="#0e1626" stroke="#f472b6" stroke-width="1.5" stroke-opacity="0.55"/>
+        <rect x="605.0" y="20" width="140" height="130" rx="14" fill="#f472b6" opacity="0">
+          <animate attributeName="opacity" values="0;0.16;0" dur="2.2s" begin="1.35s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="675.0" cy="62" r="24" fill="none" stroke="#f472b6" stroke-width="3"/>
+        <text x="675.0" y="70" font-size="18" font-weight="bold" fill="#f472b6" text-anchor="middle">A</text>
+        <text x="675.0" y="118" font-size="11" fill="#e7edf7" text-anchor="middle">Data Wrangler</text>
+        <text x="675.0" y="134" font-size="9" fill="#8a97ab" text-anchor="middle">RANK</text>
+      </g>
+    </g>
+    <g transform="translate(825.0,95) scale(0)">
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1"
+        begin="1.00s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.34 1.56 0.64 1"/>
+      <g transform="translate(-825.0,-95)">
+        <rect x="755.0" y="20" width="140" height="130" rx="14" fill="#0e1626" stroke="#34d399" stroke-width="1.5" stroke-opacity="0.55"/>
+        <rect x="755.0" y="20" width="140" height="130" rx="14" fill="#34d399" opacity="0">
+          <animate attributeName="opacity" values="0;0.16;0" dur="2.2s" begin="1.50s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="825.0" cy="62" r="24" fill="none" stroke="#34d399" stroke-width="3"/>
+        <text x="825.0" y="70" font-size="18" font-weight="bold" fill="#34d399" text-anchor="middle">&#8593;</text>
+        <text x="825.0" y="118" font-size="11" fill="#e7edf7" text-anchor="middle">Growth</text>
+        <text x="825.0" y="134" font-size="9" fill="#8a97ab" text-anchor="middle">RANK</text>
+      </g>
+    </g>
+</svg>

@@ -1,198 +1,87 @@
 <div align="center">
 
-# 🌌 Keval Rampariya
-### 🚀 Data Architect | AI & Analytics Visionary
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./keval-banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./keval-banner-light.svg?v=1">
+  <img src="./keval-banner.svg?v=1" alt="Keval Rampariya — Data Analyst" width="100%"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Decoding+Data+to+Drive+Innovation;Building+Intelligent+Data+Experiences;Transforming+Raw+Information+into+Strategic+Insights" alt="Typing SVG" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<br/>
 
----
+<table align="center" border="0">
+<tr>
+<td width="34%" align="center" valign="middle">
 
-# 🖥️ SYSTEM STATUS
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./keval-lanyard.svg?v=1" alt="Keval Rampariya ID badge" width="300"/>
 
-<!-- SYSTEM_STATUS_START -->
-| 🛰️ Status | 🟢 Operational |
-| :--- | :--- |
-| **Last Synchronized** | `2026-06-20 11:20:28 IST` |
-| **Tactical Tip** | `Python: 'collections.Counter' is a convenient way to count occurrences of elements in a sequence.` |
+</td>
+<td width="66%" valign="middle">
 
-<!-- SYSTEM_STATUS_END -->
+### 📊 My Data Analysis Projects
 
----
+| 📁 Dashboard | 🛠️ Tools | 🔗 |
+|:---|:---:|:---:|
+| [🛍️ Sales & Customer Dashboard](https://github.com/kevalrampariyakeval-web/Data-Analyst/tree/main/Sales%20%26%20Customer%20Dashboard) | `Power BI` `Excel` | ↗ |
+| [📦 Samsung Supply Chain Dashboard](https://github.com/kevalrampariyakeval-web/Data-Analyst/tree/main/Samsung_Supply%20_Chain%20Deshbord) | `Power BI` `SQL` | ↗ |
+| [☕ Starbucks Dashboard](https://github.com/kevalrampariyakeval-web/Data-Analyst/tree/main/Starbucks%20Deshbord) | `Power BI` `Excel` | ↗ |
+| [🎓 Student Performance Dashboard](https://github.com/kevalrampariyakeval-web/Data-Analyst/tree/main/Student%20Performance%20deshbord) | `Python` `Pandas` `Seaborn` | ↗ |
+| [🍔 Zomato Dashboard](https://github.com/kevalrampariyakeval-web/Data-Analyst/tree/main/Zomato_Dashboard) | `SQL` `Power BI` | ↗ |
 
-# 🛸 MISSION CONTROL
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      🤖<br>
-      <b>Machine Learning</b><br>
-      Predictive Modeling
-    </td>
-    <td align="center" width="25%">
-      📊<br>
-      <b>Data Analytics</b><br>
-      Visual Storytelling
-    </td>
-    <td align="center" width="25%">
-      ☁️<br>
-      <b>MLOps</b><br>
-      Scalable Architectures
-    </td>
-    <td align="center" width="25%">
-      🎯<br>
-      <b>Strategic Growth</b><br>
-      Business Impact
-    </td>
-  </tr>
+> 📈 *"I don't just clean data — I make it confess."*
+
+</td>
+</tr>
 </table>
 
----
-
-# 🛠️ CYBER TECH STACK
-
-### 🧬 Data Engineering & Intelligence
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔮 Visualization & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-# 🚀 FEATURED UNIVERSE
+<br/>
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">💳 UPI Payment Analysis</h3>
-      <img src="https://raw.githubusercontent.com/herit007/Data-Analytics-Portfolio/main/UPI%20Analysis/dashboard.png" width="100%">
-      <p align="left">Interactive dashboard analyzing transaction trends and market share of major UPI apps in India. Built with Power BI & DAX.</p>
-      <div align="center">
-        <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/UPI%20Analysis">
-          <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛒 Retail Sales Insight</h3>
-      <img src="https://raw.githubusercontent.com/herit007/Data-Analytics-Portfolio/main/Retail%20Store%20Sales%20Analysis/Dashboard.png" width="100%">
-      <p align="left">End-to-end analysis of retail performance, customer churn, and product category contribution using SQL and Power BI.</p>
-      <div align="center">
-        <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/Retail%20Store%20Sales%20Analysis">
-          <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💱 INR Currency Pulse</h3>
-      <img src="https://raw.githubusercontent.com/herit007/Data-Analytics-Portfolio/main/INR-Currency-Dashboard/currency_dashboard.png" width="100%">
-      <p align="left">Real-time tracking and YoY growth analysis of INR against major global currencies like USD, EUR, and GBP.</p>
-      <div align="center">
-        <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/INR-Currency-Dashboard">
-          <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50%">
-      <p>More projects arriving in deep space soon...</p>
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats & Graphs
 
-</div>
+<img src="./keval-stats.svg?v=1" alt="GitHub Stats" height="195"/>
+<img src="./keval-langs.svg?v=1" alt="Top Languages & Tools" height="195"/>
 
----
+<br/><br/>
 
-# THE CONTRIBUTION VOID
+<img src="https://streak-stats.demolab.com?user=kevalrampariyakeval-web&theme=tokyonight&hide_border=true&background=0e1626&ring=2dd4bf&fire=fbbf24&currStreakLabel=22d3ee" alt="GitHub Streak"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/herit007/herit007/output/profile-night-green.svg" width="100%">
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevalrampariyakeval-web&bg_color=0e1626&color=2dd4bf&line=8b5cf6&point=22d3ee&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20📊" alt="Contribution graph" width="95%"/>
 
-</div>
+<br/><br/>
 
----
-# 📊 NEURAL METRICS
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./keval-trophies.svg?v=1" alt="Trophies" width="95%"/>
 
-<div align="center">
+<br/><br/>
 
-<!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herit007&theme=tokyonight" width="100%"/>
+### 🐍 Watch the snake eat my contributions
 
-<br><br>
+<img src="https://raw.githubusercontent.com/kevalrampariyakeval-web/kevalrampariyakeval-web/output/github-snake.svg" alt="Contribution snake"/>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
+<br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=herit007&theme=tokyonight&hide_border=true" width="49%"/>
+### 📫 Let's Connect
 
-<br><br>
+<a href="mailto:kevalrampariya0507@gmail.com"><img src="https://img.shields.io/badge/Email-2dd4bf?style=for-the-badge&logo=gmail&logoColor=0e1626" alt="Email"/></a>
+<a href="https://github.com/kevalrampariyakeval-web"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/keval-rampariya-147607315/"><img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0e1626" alt="LinkedIn"/></a>
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herit007&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<br/><br/>
 
-<!-- Repositories Per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herit007&theme=tokyonight" width="49%"/>
+<img src="https://komarev.com/ghpvc/?username=kevalrampariyakeval-web&color=2dd4bf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br><br>
+<br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=herit007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-# 🏆 LEGENDARY TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=herit007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-
-</div>
-
----
-
-# 🛰️ CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:blender740@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://herit007.github.io">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ Designed by [herit007](https://github.com/herit007)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=END+OF+TRANSMISSION&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
+*📊 Turning data into decisions, one dashboard at a time.* 📈
 
 </div>
